@@ -1,5 +1,10 @@
-readme_content = """\
+
 # 📘 DSA Pattern-Based Problem Solving
+
+![DSA Badge](https://img.shields.io/badge/Data%20Structures-Patterns-blue)  
+![Language Badge](https://img.shields.io/badge/Language-C++%2FJava%2FPython-informational)  
+![Open Source Love](https://img.shields.io/badge/PRs-welcome-brightgreen)  
+![Maintenance](https://img.shields.io/badge/Maintained-Yes-green)
 
 This repository contains a handpicked set of **Data Structures and Algorithms (DSA)** problems grouped by **commonly used patterns** in coding interviews and competitive programming.
 
@@ -62,10 +67,3 @@ Inspired by popular resources like **Striver's DSA Sheet**, this repository incl
 
 Feel free to add problems, improve explanations, or suggest new patterns!
 """
-
-# Save the README.md file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w") as f:
-    f.write(readme_content)
-
-readme_path
