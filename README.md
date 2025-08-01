@@ -1,8 +1,13 @@
 
 # 📘 DSA Pattern-Based Problem Solving
 
+📄 [TIME AND SPACE COMPLEXITY](https://media.licdn.com/dms/document/media/v2/D561FAQEWzgXT7fZuJA/feedshare-document-pdf-analyzed/B56ZftB7elG0AY-/0/1752028399295?e=1755129600&v=beta&t=gDGj-cR-5ViTWL3VywPZ2fvn8LwFuCII7Wapkkv0OmU)
+
 📄 [Download Full DSA Patterns PDF](https://media.licdn.com/dms/document/media/v2/D561FAQEzsEp3PHffEw/feedshare-document-pdf-analyzed/B56Zf3brKhHYAk-/0/1752202919499?e=1755129600&v=beta&t=-_pLuY9MwDFTkwtf_okwAHG3vTlGxDCpXa4cAFSxiwU)
 
+📄 [TOP 20 DSA Patterns](https://media.licdn.com/dms/document/media/v2/D561FAQECUjAPoPT5-Q/feedshare-document-pdf-analyzed/B56ZhJ4u73HQAY-/0/1753586321957?e=1755129600&v=beta&t=-LWDLJcy044vQ2t9wE0JoNxIOUXsLQQ9F-sk4TYJbho)
+
+📄 [DSA 150](https://media.licdn.com/dms/document/media/v2/D561FAQEQPwl-5e8-1A/feedshare-document-pdf-analyzed/B56ZgWTqFDHQAc-/0/1752720915770?e=1755129600&v=beta&t=Y_tBRnf_y9dSLu6D-XuEz8Y8LZjkLHKG9n4aEFnh3uA)
 
 ---
 
