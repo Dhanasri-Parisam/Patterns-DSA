@@ -1,6 +1,11 @@
 
 # 📘 DSA Pattern-Based Problem Solving
 
+📄 [Download Full DSA Patterns PDF](https://media.licdn.com/dms/document/media/v2/D561FAQEzsEp3PHffEw/feedshare-document-pdf-analyzed/B56Zf3brKhHYAk-/0/1752202919499?e=1755129600&v=beta&t=-_pLuY9MwDFTkwtf_okwAHG3vTlGxDCpXa4cAFSxiwU)
+
+
+---
+
 ![DSA Badge](https://img.shields.io/badge/Data%20Structures-Patterns-blue)  
 ![Language Badge](https://img.shields.io/badge/Language-C++%2FJava%2FPython-informational)  
 ![Open Source Love](https://img.shields.io/badge/PRs-welcome-brightgreen)  
